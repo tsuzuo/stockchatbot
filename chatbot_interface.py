@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import yfinance as yf
+from yahoofinancials import YahooFinancials
 from datetime import datetime, timedelta
 import time
 import random
