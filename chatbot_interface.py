@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import finance as yf
 from datetime import datetime
 import time
 import random
